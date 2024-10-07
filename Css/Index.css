@@ -1,0 +1,54 @@
+
+
+footer {
+    position: relative; /* Asegura que el footer esté en su posición natural */
+}
+
+  .bg-footer {
+    font-family: 'Protest Strike';
+    background-color:dodgerblue;
+    padding: 10px 0;
+    position: relative;
+    margin: 0; /* Sin margen */
+    font-size: 15px; /* Reducir el tamaño de fuente del pie de página */
+    color: black; 
+}
+
+.titulo {
+    font-family: 'Protest Strike'; /* Fuente Rock Salt */
+    font-size: 60px !important; /* Tamaño de la fuente */
+    font-weight: bold !important;
+    letter-spacing: 5px !important; /* Espaciado entre letras */
+    text-align: center;
+    
+}
+
+h2{
+    font-family: 'Protest Strike'; 
+    font-size: 40px !important; /* Tamaño de la fuente */
+    font-weight: bold !important;
+    letter-spacing: 5px !important; /* Espaciado entre letras */
+    text-align: center;
+}
+
+  .styleheader{
+    background-color: dodgerblue;
+    color: rgb(0, 0, 0);
+  }
+
+ .stylebody {
+    background-color: gray;
+    color: rgb(255, 255, 255);
+ }
+
+ .col{
+    text-align: center;
+    font-family: 'Protest Strike'; /* Fuente Rock Salt */
+    font-size: 15px !important; /
+ }
+
+ .tamimg{
+    align-items: center;
+    
+ }
+  
